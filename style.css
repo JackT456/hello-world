@@ -1,0 +1,26 @@
+li{
+    color: red;
+    font-size: 30px ;
+}
+h1{
+    text-align: center;
+    color :rgb(1,1,100);
+    font-style: italic;
+    
+}
+span{
+    color: rgb(150,100,50) ; 
+}
+body{
+    background :rgb(0,100,70) ;
+}
+nav:hover{
+     font-family: serif ;
+     text-transform: uppercase;
+
+     
+}
+a:hover{
+       text-transform: A
+     
+}
