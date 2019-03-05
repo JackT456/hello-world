@@ -20,7 +20,31 @@ nav:hover{
 
      
 }
-a:hover{
-       text-transform: A
-     
+p1 {
+    text-align: center;
+    
+}
+header{
+    background-image: url(bug.jpeg);
+    
+    
+    
+}
+
+services {
+    text-align: center;
+}
+.services i{
+    
+    font-size: 30px;
+    padding: 20px 5px;
+    background-color: rgb(20,70,30);
+    color: white;
+    text-align: center;
+    width: 80px;
+    height : 80px;
+    border-radius: 50%;
+}
+.services span{
+    font-weight: bold;
 }
