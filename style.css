@@ -2,6 +2,10 @@ li{
     color: red;
     font-size: 30px ;
 }
+body1{
+    background-image: url("download.jpeg");
+    background-size: auto;
+}
 h1{
     text-align: center;
     color :rgb(1,1,100);
@@ -12,6 +16,7 @@ span{
     color: rgb(150,100,50) ; 
 }
 body{
+    background-image: url("bug.jpeg");
     background :rgb(0,100,70) ;
 }
 nav:hover{
@@ -24,15 +29,17 @@ p1 {
     text-align: center;
     
 }
-header{
-    background-image: url(bug.jpeg);
+
     
     
     
-}
 
 services {
     text-align: center;
+}
+.services h1{
+    color: rgb(100,0,40);
+    
 }
 .services i{
     
@@ -47,4 +54,33 @@ services {
 }
 .services span{
     font-weight: bold;
+}
+.services h3{
+    background-color: rgb(70,90,60);
+}
+#team-support img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+#comment{
+    background-color: pink;
+}
+#background{
+    background-image: url("bug.jpeg");
+    background-size: auto;
+}
+#background h2{
+     text-align: center;
+     color: white;   
+}
+    
+    
+}
+    
+    
+    
+    
+}
+    
 }
